@@ -15,6 +15,8 @@
 - MAIN: some resources, guideline, documents and reports of this project.
 - SOURCECODE: sourcecode of this project.
 - [OneDrive]():
+  - Backup this project
+  - Contain submit files   
 # Pipeline
 - UCS and A* implementation with guides. 
 - Reuse sourcecode from previous project.
