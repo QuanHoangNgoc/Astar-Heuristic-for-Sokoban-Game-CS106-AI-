@@ -10,12 +10,12 @@
 - We also presented various ideas for the design heuristic function, where the heuristic function Q* that we proposed can find optimal solutions in all maps while the search time is not significant.
 
 ### show-off 
-- [A* and Sokoban Game - Heuristic is piece of cake! - [AI course - CS106 - UIT]](https://youtu.be/wp_hpPnzQHg?feature=shared)
+- [x] Video: [A* and Sokoban Game - Heuristic is piece of cake! - [AI course - CS106 - UIT]](https://youtu.be/wp_hpPnzQHg?feature=shared)
 
 # Repo Structure:  
 - RESOURCES: some resources, guidelines, documents and reports of this project.
 - SOURCE CODE: source code of this project.
-- [Astar_Heuristic_for_Sokoban_Game](https://uithcm-my.sharepoint.com/:f:/g/personal/22521178_ms_uit_edu_vn/EtPMjp9oBZJOs-FB7S_2BhYBKIJ0Dz2M3XlWftQCxivsCA?e=rn6OCR)
+- [x] OneDrive [Astar_Heuristic_for_Sokoban_Game](https://uithcm-my.sharepoint.com/:f:/g/personal/22521178_ms_uit_edu_vn/EtPMjp9oBZJOs-FB7S_2BhYBKIJ0Dz2M3XlWftQCxivsCA?e=rn6OCR)
   - Backup this project
   - Contain submit files   
 
