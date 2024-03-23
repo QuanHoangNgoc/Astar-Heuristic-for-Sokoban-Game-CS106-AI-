@@ -26,8 +26,8 @@
 - Present report and pack project. 
 
 # How to install this project: 
-- Download all source code and run file Sokoban.py 
-- If people want to change some attributes of this project to config and customize it. Please change at constant.py
-- The source code is organize as a MVC model with View is Sokoban.py and Controller is Game.py 
-- Thus, to change algorithm that you want to use, please change at game.py >> auto_move() 
-- Customize the algorithm at solver.py
+- Download all source code and run file Sokoban.py to play a game. 
+- If people want to change some attributes of this project to config, please change at constant.py. 
+- The source code is organize as a MVC model with View is Sokoban.py and Controller is Game.py. 
+- Thus, to change the algorithm that you want to use, please change at game.py >> auto_move(). 
+- Customize algorithms at solver.py.
