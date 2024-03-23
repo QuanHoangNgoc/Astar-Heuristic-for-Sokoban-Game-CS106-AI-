@@ -15,7 +15,7 @@
 # Repo Structure:  
 - RESOURCES: some resources, guidelines, documents and reports of this project.
 - SOURCE CODE: source code of this project.
-- [x] OneDrive [Astar_Heuristic_for_Sokoban_Game](https://uithcm-my.sharepoint.com/:f:/g/personal/22521178_ms_uit_edu_vn/EtPMjp9oBZJOs-FB7S_2BhYBKIJ0Dz2M3XlWftQCxivsCA?e=rn6OCR)
+- [x] OneDrive: [Astar_Heuristic_for_Sokoban_Game](https://uithcm-my.sharepoint.com/:f:/g/personal/22521178_ms_uit_edu_vn/EtPMjp9oBZJOs-FB7S_2BhYBKIJ0Dz2M3XlWftQCxivsCA?e=rn6OCR)
   - Backup this project
   - Contain submit files   
 
