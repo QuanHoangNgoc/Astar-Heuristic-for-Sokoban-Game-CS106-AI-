@@ -31,7 +31,11 @@
 - The source code is organize as a MVC model with View is Sokoban.py and Controller is Game.py. 
 - Thus, to change the algorithm that you want to use, please change at game.py >> auto_move(). 
 - Customize algorithms at solver.py.
-### requirments
+### requirements
 - python >= 3.0
 - pygame
 - pyautogui
+
+# Donate: 
+- If this project is useful, please like (star) to add motivation for me. 
+- I am happy to share my knowledge and projects to people. I am willing to spend more time, enthusiasm and a well-groomed appearance for these projects. Thank you for your help. 
