@@ -4,7 +4,7 @@
 ## 📖 Introduction
 
 - **Author**: Quan Hoang Ngoc  
-- **Course**: Assignment 2 of _TTNT_  
+- **Course**: Assignment 2
 - **Semester**: _HK2_, 2024  
 
 ### 📚 About
