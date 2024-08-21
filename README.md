@@ -16,7 +16,7 @@ This project implements the A* search algorithm to solve the Sokoban puzzle game
 - **Innovative Solutions**: Proposing heuristic designs that ensure efficient solutions across various Sokoban maps without sacrificing search speed.
 
 ### 🎥 Show-off
-- [Watch the Video: A* and Sokoban Game - Heuristic is a piece of cake!](https://youtu.be/wp_hpPnzQHg?feature=shared) - AI course - CS106 - UIT
+- **[Watch the Video: A* and Sokoban Game - Heuristic is a piece of cake!](https://youtu.be/wp_hpPnzQHg?feature=shared) - AI course - CS106 - UIT**
 
 ---
 ## 🤔 What Is It?
